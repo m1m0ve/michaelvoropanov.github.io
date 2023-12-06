@@ -12,11 +12,7 @@ Reading This Year:
  - "Ignition" by John D. Clarke
  - "The Hitchhiker's Guide to the Galaxy" by Douglas Adams
 
-
-
-
-
-
+"Church–Turing thesis" - (multiple papers)
 "Only The Paranoid Survive" by Andrew Grove
 "The Bell Curve" by Richard J. Herrnstein & Charles Murray
 "Meditations" by Marcus Aurelius
