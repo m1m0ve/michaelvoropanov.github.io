@@ -2,19 +2,18 @@
 layout: post
 ---
 
-Although never complete here are some of the books I want to read again or want to read:
+Although never complete here are some of the books I want to read or read again:
 
 Reading This Year:
 
- - "The Little Prince" by Antoine de Saint-Exupéry ✔️
+ - "The Little Prince" by Antoine de Saint-Exupéry 
  - "Old Man and The Sea" by Ernest Hemingway
  - "1984" by George Orwell
  - "Ignition" by John D. Clarke
  - "The Hitchhiker's Guide to the Galaxy" by Douglas Adams
 
-
-
-
+---
+ - "The Elephant in the Brain" by Kevin Simler and Robin Hanson
  - "Church–Turing thesis" - (multiple papers)
  - "Only The Paranoid Survive" by Andrew Grove
  - "The Bell Curve" by Richard J. Herrnstein & Charles Murray
