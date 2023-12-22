@@ -18,7 +18,6 @@ December 2023:
 
 ---
  - "The Elephant in the Brain" by Kevin Simler and Robin Hanson
- - "Church–Turing thesis" - (multiple papers)
  - "Only The Paranoid Survive" by Andrew Grove
  - "The Bell Curve" by Richard J. Herrnstein & Charles Murray
  - "Meditations" by Marcus Aurelius
