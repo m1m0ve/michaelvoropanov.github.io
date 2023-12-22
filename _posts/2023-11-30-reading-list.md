@@ -2,15 +2,19 @@
 layout: post
 ---
 
-Although never complete here are some of the books I want to read or read again:
+December 2023:
 
-Reading This Year:
-
- - "The Little Prince" by Antoine de Saint-Exupéry 
+ - "The Little Prince" by Antoine de Saint-Exupéry
  - "Old Man and The Sea" by Ernest Hemingway
  - "1984" by George Orwell
  - "Ignition" by John D. Clarke
+ - "Rules For Radicals" by Saul Alinsky
  - "The Hitchhiker's Guide to the Galaxy" by Douglas Adams
+    - "Restaurant at the End of the Universe"
+    - "Life, the Universe and Everything"
+    - "So Long, and Thanks for All the Fish"
+    - "Young Zaphod Plays It Safe"
+    - "Mostly Harmless"
 
 ---
  - "The Elephant in the Brain" by Kevin Simler and Robin Hanson
@@ -60,5 +64,4 @@ Reading This Year:
  - "The Caladan Trilogy" by Brian Herbert and Kevin J. Anderson
  - "Heroes of Dune" by Brian Herbert and Kevin J. Anderson
  - "Love and Math: The Heart of Hidden Reality" by Edward Frenkel
- - "Rules For Radicals" by Saul Alinsky
  - "Seeing Like a State" by  James C. Scott
