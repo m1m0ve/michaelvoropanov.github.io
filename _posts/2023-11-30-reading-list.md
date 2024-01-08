@@ -2,7 +2,6 @@
 layout: post
 ---
 
-December 2023:
 
  - "The Little Prince" by Antoine de Saint-Exupéry
  - "Old Man and The Sea" by Ernest Hemingway
@@ -15,8 +14,11 @@ December 2023:
     - "So Long, and Thanks for All the Fish"
     - "Young Zaphod Plays It Safe"
     - "Mostly Harmless"
+ - "The Machine Stops, 1909, The Oxford and Cambridge Review" - by E. M. Forster
+ - "Man’s Search for Meaning" by Viktor E. Frankl
 
 ---
+ - The Crowd: A Study of the Popular Mind by Gustave Le Bon
  - "The Elephant in the Brain" by Kevin Simler and Robin Hanson
  - "Only The Paranoid Survive" by Andrew Grove
  - "The Bell Curve" by Richard J. Herrnstein & Charles Murray
@@ -25,7 +27,6 @@ December 2023:
  - "The Art of War" by Sun Tzu
  - "2001: A Space Odyssey" by Arthur C. Clarke
  - "Animal Farm" by George Orwell
- - "Man’s Search for Meaning" by Viktor E. Frankl
  - "Sapiens" by Yuval Noah Harari
  - "Metamorphosis, Hunger Artist" by Franz Kafka
  - "The Plague" by Albert Camus
